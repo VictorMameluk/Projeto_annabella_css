@@ -8,4 +8,5 @@ e no final o email e telefone de contato.
 - HTML
 - CSS
 
-
+<img src="https://github.com/VictorMameluk/Projeto_annabella_css/blob/master/assets/home.png">
+<img src="https://github.com/VictorMameluk/Projeto_annabella_css/blob/master/assets/galeria.png">
