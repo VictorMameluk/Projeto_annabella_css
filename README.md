@@ -10,3 +10,10 @@ e no final o email e telefone de contato.
 
 <img src="https://github.com/VictorMameluk/Projeto_annabella_css/blob/master/assets/home.png">
 <img src="https://github.com/VictorMameluk/Projeto_annabella_css/blob/master/assets/galeria.png">
+
+# Autor:
+ 
+ ### Victor Mameluk 
+ 
+ https://www.linkedin.com/in/victor-mameluk-68309913a/
+
